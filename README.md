@@ -18,5 +18,4 @@
 
 
 ## Gorev 2 -Manuel Test Case Çalışması
-    - https://testcase.myideasoft.com sitesinden bir test üyeliği oluşturup,
-Hesabım sayfası altında bulunan Adres Defteri alanı ile ilgili manuel fonksiyonel test caseleri çıkarınız.
+    - https://testcase.myideasoft.com sitesinden bir test üyeliği oluşturup, Hesabım sayfası altında bulunan Adres Defteri alanı ile ilgili manuel fonksiyonel test caseleri çıkarınız.
