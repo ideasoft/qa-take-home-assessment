@@ -6,7 +6,7 @@
 - Tercih ettiğiniz library veya framework'ü kullanabilirsiniz.
 - Dilediğiniz dış kaynaklardan faydalanabilirsiniz. Lütfen kullandığınız dış kaynak ve kodları görev içerisinde yorum olarak belirtin.
 
-Bu görevde bulunan zaman sınırlaması 2 gündür.
+Bu görevde herhangi bir zaman sınırlaması bulunmamaktadır.
 
 ## Sorularınız Varsa
 Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizimle iletişime geçmekten çekinmeyin.
