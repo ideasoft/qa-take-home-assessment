@@ -22,7 +22,7 @@ Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizim
 
 
 ## Görev 2 - Manuel Test Case Çalışması
-https://testcase.myideasoft.com/ sitesinden bir test üyeliği oluşturup Hesabım sayfası altında bulunan Adres Defteri alanı ile ilgili manuel fonksiyonel test case'ler çıkarınız.
+https://qatestcase.myideasoft.com/ sitesinden bir test üyeliği oluşturup Hesabım sayfası altında bulunan Adres Defteri alanı ile ilgili manuel fonksiyonel test case'ler çıkarınız.
 
 ### Manuel Test Case Kuralları Nedir?
 - Çıkan sonuçlar maddelendirilerek bildirilmeli.
