@@ -14,7 +14,7 @@ Eğer görevde net olmayan noktalar olduğunu düşünüyorsanız, lütfen bizim
 ---
 
 ## Görev 1 - Test Otomasyonu Çalışması
-- https://testcase.myideasoft.com/ sitesi ziyaret edilir.
+- https://qatestcase.myideasoft.com/ sitesi ziyaret edilir.
 - Arama kısmına "ürün" yazılarak arama yapılır.
 - Arama sonucunda listelenen ürünün detayına girilir ve ilgili üründen 5 adet sepete eklenir.
 - "SEPETİNİZE EKLENMİŞTİR" yazısının görünmesi kontrol edilir.
